@@ -1,0 +1,34 @@
+{
+  "name": "react-native-payment-pass",
+  "version": "0.1.0",
+  "description": "React Native library for adding payment cards to device wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "apple-pay",
+    "walet",
+    "PassKit",
+    "app-provisioning"
+  ],
+  "author": "Adam Clarke <adam@adamclarke.co> (https://adamclarke.co)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avclarke/react-native-payment-pass"
+  },
+  "homepage": "https://github.com/avclarke/react-native-payment-pass#readme",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.18.2",
+    "react": "^16.13.1",
+    "react-native": "^0.62.2"
+  }
+}
